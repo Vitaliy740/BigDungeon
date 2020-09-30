@@ -1,0 +1,1 @@
+{"nameItem":"Меч","id":2,"countItem":0,"isStackable":false,"descriptionItem":"","icon":{"instanceID":12378},"price":0,"isRemovable":false,"isDroped":false,"isWeapon":true,"isArmor":false,"Damege":5,"DamageType":"","elementalDamage":0,"ArmorType":"","Armor":0,"OnItemUse":{"m_PersistentCalls":{"m_Calls":[]}}}

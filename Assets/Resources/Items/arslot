@@ -1,0 +1,1 @@
+{"nameItem":"Кожанная броня","id":4,"countItem":1,"isStackable":false,"descriptionItem":"Обычная кожанная броня","icon":{"instanceID":13052},"price":0,"isRemovable":false,"isDroped":true,"isWeapon":false,"isArmor":true,"Damege":0,"DamageType":"","elementalDamage":0,"ArmorType":"","Armor":10,"OnItemUse":{"m_PersistentCalls":{"m_Calls":[]}}}

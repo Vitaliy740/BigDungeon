@@ -1,0 +1,1 @@
+{"nameItem":"","id":0,"countItem":1,"isStackable":false,"descriptionItem":"","icon":{"instanceID":0},"price":0,"isRemovable":false,"isDroped":false,"isWeapon":false,"isArmor":false,"Damege":0,"DamageType":"","elementalDamage":0,"ArmorType":"","Armor":0,"OnItemUse":{"m_PersistentCalls":{"m_Calls":[]}}}
